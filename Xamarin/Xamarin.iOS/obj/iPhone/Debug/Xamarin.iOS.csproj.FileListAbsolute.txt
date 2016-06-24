@@ -1,0 +1,11 @@
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\bin\iPhone\Debug\XamariniOS.exe
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\bin\iPhone\Debug\XamariniOS.pdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\optimized\
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\XamariniOS.exe
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\XamariniOS.pdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\Xamarin.iOS.csprojResolveAssemblyReference.cache
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\XamariniOS.exe.mdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\bin\iPhone\Debug\XamariniOS.exe.mdb

@@ -1,0 +1,4 @@
+Xamarin.Droid.MainActivity, Xamarin.Droid;md50a24410d6e51804afa69d40f0e9693b4.MainActivity
+Xamarin.Droid.MainActivity, Xamarin.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50a24410d6e51804afa69d40f0e9693b4.MainActivity
+Xamarin.Droid.MainActivity;md50a24410d6e51804afa69d40f0e9693b4.MainActivity
+xamarin.droid.MainActivity;md50a24410d6e51804afa69d40f0e9693b4.MainActivity
