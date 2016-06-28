@@ -16,7 +16,7 @@ namespace UnitTests
         {
             //FakeClass fc = new FakeClass();
             //Assert.IsTrue(fc.giveOne() == 1);
-            Assert.Pass();
+            Assert.Fail();
         }
     }
 }
