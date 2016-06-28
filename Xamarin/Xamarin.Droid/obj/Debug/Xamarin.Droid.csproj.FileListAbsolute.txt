@@ -37,5 +37,7 @@ D:\Users\KN5391\Documents\Visual Studio 2015\Projects\Xamarin\Xamarin\Xamarin.Dr
 D:\Users\KN5391\Documents\Visual Studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\Users\KN5391\Documents\Visual Studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\Users\KN5391\Documents\Visual Studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\obj\Debug\android\assets\Xamarin.Droid.dll.mdb
-D:\Users\KN5391\Documents\Visual Studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\obj\Debug\Xamarin.Droid.dll.mdb
-D:\Users\KN5391\Documents\Visual Studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\bin\Debug\Xamarin.Droid.dll.mdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\bin\Debug\nunit.framework.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\bin\Debug\nunit.framework.xml
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\obj\Debug\Xamarin.Droid.dll.mdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.Droid\bin\Debug\Xamarin.Droid.dll.mdb

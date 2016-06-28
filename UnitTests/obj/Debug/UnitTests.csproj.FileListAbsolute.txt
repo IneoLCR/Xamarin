@@ -1,0 +1,11 @@
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\UnitTests.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\UnitTests.pdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\nunit.framework.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\nunit.framework.xml
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\obj\Debug\UnitTests.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\obj\Debug\UnitTests.pdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\Xamarin.Droid.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\XamariniOS.exe
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\Xamarin.Droid.pdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\UnitTests\bin\Debug\XamariniOS.pdb

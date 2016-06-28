@@ -100,6 +100,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "Xamarin.Droid.dll" comes first in this list. */
 		"Xamarin.Droid.dll",
 		"Java.Interop.dll",
+		"nunit.framework.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
 		"System.Collections.dll",

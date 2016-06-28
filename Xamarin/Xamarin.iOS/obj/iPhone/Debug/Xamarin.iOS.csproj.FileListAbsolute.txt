@@ -7,5 +7,7 @@ D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iO
 D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\XamariniOS.exe
 D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\XamariniOS.pdb
 D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\Xamarin.iOS.csprojResolveAssemblyReference.cache
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\bin\iPhone\Debug\nunit.framework.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\bin\iPhone\Debug\nunit.framework.xml
 D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\obj\iPhone\Debug\XamariniOS.exe.mdb
 D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\Xamarin\Xamarin.iOS\bin\iPhone\Debug\XamariniOS.exe.mdb

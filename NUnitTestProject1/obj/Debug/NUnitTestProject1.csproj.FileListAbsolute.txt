@@ -1,0 +1,5 @@
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\NUnitTestProject1\obj\Debug\NUnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\NUnitTestProject1\bin\Debug\NUnitTestProject1.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\NUnitTestProject1\bin\Debug\NUnitTestProject1.pdb
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\NUnitTestProject1\obj\Debug\NUnitTestProject1.dll
+D:\Users\KN5391\documents\visual studio 2015\Projects\Xamarin\NUnitTestProject1\obj\Debug\NUnitTestProject1.pdb
