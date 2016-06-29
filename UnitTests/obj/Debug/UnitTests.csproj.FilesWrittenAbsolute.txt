@@ -1,0 +1,14 @@
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/UnitTests.dll.mdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/UnitTests.pdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/UnitTests.dll
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/obj/Debug/UnitTests.dll
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/obj/Debug/UnitTests.dll.mdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/obj/Debug/UnitTests.pdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/nunit.framework.dll
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/Xamarin.Droid.dll
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/Xamarin.Droid.dll.mdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/Xamarin.Droid.pdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/XamariniOS.exe
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/XamariniOS.exe.mdb
+/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/XamariniOS.pdb

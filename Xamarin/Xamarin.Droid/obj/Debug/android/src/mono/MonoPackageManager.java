@@ -99,8 +99,9 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Xamarin.Droid.dll" comes first in this list. */
 		"Xamarin.Droid.dll",
-		"Java.Interop.dll",
 		"nunit.framework.dll",
+		"Java.Interop.dll",
+		"System.ServiceModel.Internals.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
 		"System.Collections.dll",
@@ -111,7 +112,6 @@ class MonoPackageManager_Resources {
 		"System.Runtime.InteropServices.dll",
 		"System.Runtime.Extensions.dll",
 		"System.Reflection.Extensions.dll",
-		"System.ServiceModel.Internals.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
