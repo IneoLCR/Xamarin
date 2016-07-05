@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.4.0.0" clr-version="4.0.30319.42000" start-time="2016-06-29 10:59:08Z" end-time="2016-06-29 10:59:08Z" duration="0.093663">
+  <command-line><![CDATA[/Users/administrateur/Desktop/NUnit-3/bin/nunit3-console.exe UnitTests/bin/Debug/UnitTests.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="UnitTests.dll" fullname="/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin/UnitTests/bin/Debug/UnitTests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-06-29 10:59:08Z" end-time="2016-06-29 10:59:08Z" duration="0.025083" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.0.5813.39031" clr-version="4.0.30319.42000" os-version="Unix 15.5.0.0" platform="Unix" cwd="/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin" machine-name="Mac-mini-de-administrateur.local" user="administrateur" user-domain="Mac-mini-de-administrateur.local" culture="fr-FR" uiculture="fr-FR" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="/Users/administrateur/Desktop/TestXamarinGitHub/Xamarin" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="4030" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="UnitTests" fullname="UnitTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-06-29 10:59:08Z" end-time="2016-06-29 10:59:08Z" duration="0.018368" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="0-1000" name="TestClass" fullname="UnitTests.TestClass" classname="UnitTests.TestClass" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-06-29 10:59:08Z" end-time="2016-06-29 10:59:08Z" duration="0.017219" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="0-1001" name="fakeTest" fullname="UnitTests.TestClass.fakeTest" methodname="fakeTest" classname="UnitTests.TestClass" runstate="Runnable" seed="798259755" result="Passed" start-time="2016-06-29 10:59:08Z" end-time="2016-06-29 10:59:08Z" duration="0.009075" asserts="0">
+          <reason>
+            <message><![CDATA[]]></message>
+          </reason>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
