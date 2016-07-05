@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Xamarin.iOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>bundle.identifier.example.xamarin</string>
+	<string>com.cofelyineo-gdfsuez.AviactorXamarin</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
